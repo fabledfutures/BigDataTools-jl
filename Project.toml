@@ -1,0 +1,3 @@
+[deps]
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
+gRPCClient = "aaca4a50-36af-4a1d-b878-4c443f2061ad"
